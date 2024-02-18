@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/preet/AndroidStudioProjects/ProjectCGPA/app/src/main/res/layout/activity_calculate.xml" value="0.1" />
+        <entry key="..\:/Users/preet/AndroidStudioProjects/ProjectCGPA/app/src/main/res/layout/activity_grade.xml" value="0.1" />
+        <entry key="..\:/Users/preet/AndroidStudioProjects/ProjectCGPA/app/src/main/res/layout/activity_home.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/preet/AndroidStudioProjects/ProjectCGPA/app/src/main/res/layout/activity_log.xml" value="0.1" />
+        <entry key="..\:/Users/preet/AndroidStudioProjects/ProjectCGPA/app/src/main/res/layout/activity_mail.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/preet/AndroidStudioProjects/ProjectCGPA/app/src/main/res/layout/activity_mail1.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/preet/AndroidStudioProjects/ProjectCGPA/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/preet/AndroidStudioProjects/ProjectCGPA/app/src/main/res/layout/activity_main2.xml" value="0.170316301703163" />
+        <entry key="..\:/Users/preet/AndroidStudioProjects/ProjectCGPA/app/src/main/res/layout/activity_mark.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/preet/AndroidStudioProjects/ProjectCGPA/app/src/main/res/layout/activity_percentage.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/preet/AndroidStudioProjects/ProjectCGPA/app/src/main/res/layout/activity_save.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/preet/AndroidStudioProjects/ProjectCGPA/app/src/main/res/layout/activity_sign.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/preet/AndroidStudioProjects/ProjectCGPA/app/src/main/res/layout/activity_splash_screen.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/preet/AndroidStudioProjects/ProjectCGPA/app/src/main/res/layout/activity_student.xml" value="0.14130434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

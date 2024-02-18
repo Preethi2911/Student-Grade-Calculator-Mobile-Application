@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MARK TRACKER</string>
+    <string name="calculator">MARK TRACKER</string>
+    <string name="mark">USING MARKS</string>
+    <string name="grade">USING GRADE</string>
+    <string name="convert">PERCENTAGE TO CGPA AND CGPA TO PERCENTAGE</string>
+
+
+    <string-array name="grade_name">
+        <item>S</item>
+        <item>A+</item>
+        <item>A</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>D</item>
+
+    </string-array>
+</resources>
